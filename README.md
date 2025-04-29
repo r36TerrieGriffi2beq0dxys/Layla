@@ -3,3 +3,4 @@ User profile enhancements
 Backend service refactoring
 Data validation rules
 Stress test analysis
+Payment gateway integration
