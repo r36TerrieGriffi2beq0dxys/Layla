@@ -7,3 +7,4 @@ Payment gateway integration
 Logging mechanism update
 UI component library
 Database indexing strategy
+Sprint planning summary
